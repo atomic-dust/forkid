@@ -1,2 +1,2 @@
-# ethereum-forkid
-Ethereum fork identifier for chain compatibility checks
+# vapory-forkid
+Vapory fork identifier for chain compatibility checks
